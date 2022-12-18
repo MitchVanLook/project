@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+}
+
+.intro{
+    color: white;
+    text-align: center;
+    font-size: 200px;
+}
+
+.visually-hidden{
+    size: 70px;
+}
